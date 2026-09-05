@@ -2,14 +2,14 @@
 
 이 게임은 **VR 멀티 플레이** 보드게임 입니다
 
-!\[Main Banner](Images/GamePlay.png)
-!\[Main Banner](Images/HandGesture.png)
+![Main Banner](Images/GamePlay.png)
+![Main Banner](Images/HandGesture.png)
 
-\---
+---
 
 ## About This Game
 
-!\[Main Banner](Images/GameStage.png)
+![Main Banner](Images/GameStage.png)
 
 이 게임은 예전 해리포터 영화에서 보던 마법사 체스를 모티브로 만든 VR 보드 게임입니다.
 
@@ -41,9 +41,9 @@
 
 졸업프로젝트 시상회와, 실감미디어 경진 대회 각각 **최우수상**, \*\*대상(교육부장관상)\*\*을 받게 되어 좋은 성적을 거두었습니다.
 
-!\[crape1](Images/crape1.jpg)
-!\[crape2](Images/crape2.jpg)
-!\[award](Images/award2.jpg)
+![crape1](Images/crape1.jpg)
+![crape2](Images/crape2.jpg)
+![award](Images/award2.jpg)
 
 
 
@@ -69,25 +69,25 @@
 
 ## 작품 소개서
 
-!\[crape1](Images/Cap-14/Cap-14\_1.png)
-!\[crape1](Images/Cap-14/Cap-14\_2.png)
-!\[crape1](Images/Cap-14/Cap-14\_3.png)
-!\[crape1](Images/Cap-14/Cap-14\_4.png)
-!\[crape1](Images/Cap-14/Cap-14\_5.png)
-!\[crape1](Images/Cap-14/Cap-14\_7.png)
-!\[crape1](Images/Cap-14/Cap-14\_8.png)
-!\[crape1](Images/Cap-14/Cap-14\_9.png)
-!\[crape1](Images/Cap-14/Cap-14\_10.png)
-!\[crape1](Images/Cap-14/Cap-14\_11.png)
-!\[crape1](Images/Cap-14/Cap-14\_12.png)
-!\[crape1](Images/Cap-14/Cap-14\_13.png)
-!\[crape1](Images/Cap-14/Cap-14\_14.png)
-!\[crape1](Images/Cap-14/Cap-14\_15.png)
-!\[crape1](Images/Cap-14/Cap-14\_16.png)
-!\[crape1](Images/Cap-14/Cap-14\_17.png)
-!\[crape1](Images/Cap-14/Cap-14\_18.png)
-!\[crape1](Images/Cap-14/Cap-14\_19.png)
-!\[crape1](Images/Cap-14/Cap-14\_20.png)
+![crape1](Images/Cap-14/Cap-14\_1.png)
+![crape1](Images/Cap-14/Cap-14\_2.png)
+![crape1](Images/Cap-14/Cap-14\_3.png)
+![crape1](Images/Cap-14/Cap-14\_4.png)
+![crape1](Images/Cap-14/Cap-14\_5.png)
+![crape1](Images/Cap-14/Cap-14\_7.png)
+![crape1](Images/Cap-14/Cap-14\_8.png)
+![crape1](Images/Cap-14/Cap-14\_9.png)
+![crape1](Images/Cap-14/Cap-14\_10.png)
+![crape1](Images/Cap-14/Cap-14\_11.png)
+![crape1](Images/Cap-14/Cap-14\_12.png)
+![crape1](Images/Cap-14/Cap-14\_13.png)
+![crape1](Images/Cap-14/Cap-14\_14.png)
+![crape1](Images/Cap-14/Cap-14\_15.png)
+![crape1](Images/Cap-14/Cap-14\_16.png)
+![crape1](Images/Cap-14/Cap-14\_17.png)
+![crape1](Images/Cap-14/Cap-14\_18.png)
+![crape1](Images/Cap-14/Cap-14\_19.png)
+![crape1](Images/Cap-14/Cap-14\_20.png)
 
 
 
